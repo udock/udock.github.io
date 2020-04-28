@@ -1,0 +1,122 @@
+package-lock.json
+dist/
+/node_modules/**/*
+
+# @antv
+!/node_modules/@antv/
+
+# @antv/g6
+!/node_modules/@antv/g6/
+!/node_modules/@antv/g6/build/
+!/node_modules/@antv/g6/build/*.js
+
+# @antv/hierarchy
+!/node_modules/@antv/hierarchy/
+!/node_modules/@antv/hierarchy/build/
+!/node_modules/@antv/hierarchy/build/*.js
+
+# MDBlog
+!/node_modules/@mdblog/
+!/node_modules/@mdblog/*/
+!/node_modules/@mdblog/*/dist/
+!/node_modules/@mdblog/*/dist/**/*
+/node_modules/@mdblog/*/package.json
+
+# axios
+!/node_modules/axios/
+!/node_modules/axios/dist/
+!/node_modules/axios/dist/*.js
+
+# blueimp-md5
+!/node_modules/blueimp-md5/
+!/node_modules/blueimp-md5/js/
+!/node_modules/blueimp-md5/js/*.js
+
+# bootstrap
+!/node_modules/bootstrap/
+!/node_modules/bootstrap/dist/
+!/node_modules/bootstrap/dist/css/
+!/node_modules/bootstrap/dist/css/bootstrap.css
+!/node_modules/bootstrap/dist/css/bootstrap.min.css
+!/node_modules/bootstrap/dist/fonts/
+!/node_modules/bootstrap/dist/fonts/*
+!/node_modules/bootstrap/dist/js/
+!/node_modules/bootstrap/dist/js/bootstrap.js
+!/node_modules/bootstrap/dist/js/bootstrap.min.js
+
+# bootstrap-vue
+!/node_modules/bootstrap-vue/
+!/node_modules/bootstrap-vue/dist/
+!/node_modules/bootstrap-vue/dist/*.js
+!/node_modules/bootstrap-vue/dist/*.css
+
+# font-awesome
+!/node_modules/font-awesome/
+!/node_modules/font-awesome/css/
+!/node_modules/font-awesome/css/*.css
+!/node_modules/font-awesome/fonts/
+!/node_modules/font-awesome/fonts/*
+
+# he
+!/node_modules/he/
+!/node_modules/he/he.js
+
+# jquery
+!/node_modules/jquery/
+!/node_modules/jquery/dist/
+!/node_modules/jquery/dist/jquery.js
+!/node_modules/jquery/dist/jquery.min.js
+
+# jsonic
+!/node_modules/jsonic/
+!/node_modules/jsonic/jsonic.js
+!/node_modules/jsonic/jsonic-min.js
+
+# jstree
+!/node_modules/jstree/
+!/node_modules/jstree/dist/
+!/node_modules/jstree/dist/**/*
+
+# marked
+!/node_modules/marked/
+!/node_modules/marked/marked.js
+!/node_modules/marked/marked.min.js
+
+# mermaid
+!/node_modules/mermaid/
+!/node_modules/mermaid/dist/
+!/node_modules/mermaid/dist/mermaid.js
+!/node_modules/mermaid/dist/mermaid.min.js
+
+# orgchart
+!/node_modules/orgchart/
+!/node_modules/orgchart/dist/
+!/node_modules/orgchart/dist/**/*
+
+# prismjs
+!/node_modules/prismjs/
+!/node_modules/prismjs/components/
+!/node_modules/prismjs/components/*
+!/node_modules/prismjs/plugins/
+!/node_modules/prismjs/plugins/**/*
+!/node_modules/prismjs/themes/
+!/node_modules/prismjs/themes/*
+!/node_modules/prismjs/prism.js
+
+# qs
+!/node_modules/qs/
+!/node_modules/qs/dist/
+!/node_modules/qs/dist/qs.js
+
+# systemjs
+!/node_modules/systemjs/
+!/node_modules/systemjs/dist/
+!/node_modules/systemjs/dist/*.js
+
+# vue
+!/node_modules/vue/
+!/node_modules/vue/dist/
+!/node_modules/vue/dist/vue.js
+!/node_modules/vue/dist/vue.min.js
+
+.DS_Store
