@@ -2,7 +2,7 @@
     "theme": "default",
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "You MD-Blog",
+    "additionalFooterText": "UDock docs",
     "anchorCharacter": "&#x2693;",
-    "title": "MDBlog"
+    "title": "UDock"
 }
